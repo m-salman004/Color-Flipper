@@ -41,3 +41,24 @@ main {
     flex-direction: column;
     align-items: center;
 }
+.container h2 {
+    color: white;
+    background-color: black;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+button {
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 5px;
+    background-color: transparent;
+    width: 70px;
+    margin-top: 20px;
+    cursor: pointer;
+    font-size: medium;
+}
+
+.color {
+    color: turquoise;
+}
