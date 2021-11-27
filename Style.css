@@ -10,3 +10,18 @@
     background-color: ghostwhite;
     box-shadow: 2px 2px darkgray;
 }
+#heading{
+    color: lightblue;
+    margin-left: 300px;
+}
+
+a{
+    text-decoration: none;
+    color: lightblue;
+    margin: 0px 410px;
+}
+
+a:hover {
+    color: lightblue;
+    cursor: pointer;
+}
